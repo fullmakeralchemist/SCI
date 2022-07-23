@@ -1,7 +1,7 @@
 <h1>Python folder 🐍</h1>
 
 <center>
-<img src="SCIE\assets" width="60%">
+<img src="SCIE\assets\python.png" width="60%">
 </center>
 
 ## What is Python?
