@@ -13,4 +13,12 @@
 -->
 
 ## What is Python?
-As we outlined in our summary post on what different programming languages are used for, Python is an object-oriented (based around data), high-level (easier for humans to understand) programming language. First launched in 1992, it’s built in a way that it’s relatively intuitive to write and understand. As such, it’s an ideal coding language for those who want rapid development. 
+Python is an object-oriented (based around data), high-level (easier for humans to understand) programming language. First launched in 1992, it’s built in a way that it’s relatively intuitive to write and understand. As such, it’s an ideal coding language for those who want rapid development. 
+
+## Why is Python so popular? 
+According to the TIOBE index, which measures the popularity of programming languages, Python is the third most popular programming language in the world, behind only Java and C. There are many reasons for the ubiquity of Python, including: 
+
+* Its ease of use. For those who are new to coding and programming, Python can be an excellent first step. It’s relatively easy to learn, making it a great way to start building your programming knowledge.
+* Its simple syntax. Python is relatively easy to read and understand, as its syntax is more like English. Its straightforward layout means that you can work out what each line of code is doing. 
+* Its thriving community. As it’s an open-source language, anyone can use Python to code. What’s more, there is a community that supports and develops the ecosystem, adding their own contributions and libraries. 
+* Its versatility. As we’ll explore in more detail, there are many uses for Python. Whether you’re interested in data visualisation, artificial intelligence or web development, you can find a use for the language. 
