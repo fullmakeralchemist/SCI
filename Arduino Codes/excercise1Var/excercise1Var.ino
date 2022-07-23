@@ -17,6 +17,8 @@ void setup() {
   suma = var1 + var2;
   Serial.print(res);
 
+  //Agregar Resta
+
 }
 
 void loop() {
