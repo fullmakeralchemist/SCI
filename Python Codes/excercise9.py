@@ -19,6 +19,7 @@ print(altura)
 print(type(altura))
 """
 
+#PART II
 
 """
 nombre_completo = input('Ingresa tu nombre completo: ')

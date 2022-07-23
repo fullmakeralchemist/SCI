@@ -22,11 +22,14 @@ el signo gato #
 
 y Triple comillas dobles
 """
+#PAR II COMMENTS
+"""
 
 hola = 'hola desde python' # ESTE ES UN COMENTARIO
 
 print(hola)
-
+"""
+#PART III COMENTS
 """
 hola amigos 
 desde

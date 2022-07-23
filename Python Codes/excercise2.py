@@ -9,12 +9,16 @@ curso = 'Curso de Clubes de Ciencia, Intruccion a Python'
 
 print(curso)
 
+# PART II
+
 """
 curso = 'Python'
 
 print(curso)
 
-----------------
+"""
+#PART III
+"""
 
 
 titulo_del_curso = 'IA para desarrollo sostenible' #Snake case unir dos palabras por un guion bajo

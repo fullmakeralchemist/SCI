@@ -1,5 +1,4 @@
-#Tipos de datos
-
+# Obtener Tipos de datos
 
 valor = 'Curso de Python'
 tipo = type(valor)

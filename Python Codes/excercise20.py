@@ -53,3 +53,16 @@ valor = diccionario.setdefault('e', 5) # coma en caso el valor no exita
 print(valor)
 print(diccionario)
 """
+
+## PART 4
+
+"""
+diccionario = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+print('z' in diccionario)
+#setfedault
+valor = diccionario.setdefault('c', 5) # coma en caso el valor no exita
+print(valor)
+print(diccionario)
+
+"""
