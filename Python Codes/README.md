@@ -1,13 +1,11 @@
 <h1>Python folder 🐍</h1>
 
+![Python](https://github.com/fullmakeralchemist/SCI/blob/84bfa407f38e6e4cb0be79921398ca2d362c914c/assets/python.png)
+
+<!---
 <center>
 <img src=".\SCIE\assets\python.png" width="60%">
 </center>
-
-
-
-<!---
-![Python](https://github.com/fullmakeralchemist/SCI/blob/84bfa407f38e6e4cb0be79921398ca2d362c914c/assets/python.png)
 -->
 
 ## What is Python?
