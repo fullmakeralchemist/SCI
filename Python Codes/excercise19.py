@@ -15,6 +15,8 @@ diccionario = { "Total": 55, "descuento": True, "subtotal": 15}
 
 print(diccionario)
 
+#PART II
+
 """
 diccionario = {"total": 55, 10: "Curso de Python", (1,2,3): True}
 
@@ -26,7 +28,7 @@ diccionario = {"total": 55, 10: "Curso de Python", (1,2,3): True}
 
 """
 
-#
+# PART III
 
 """
 usuario = {

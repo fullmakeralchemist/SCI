@@ -9,7 +9,7 @@ elementos['nombre'] = 'Codigo facilito' #Actualiza el valor que la llave almacen
 print(elementos)
 print(len(elementos))
 
-###
+# PART II
 
 """
 elementos = {'a': 1, 'b': 2, 'c': 3, 'a': 4}
@@ -54,7 +54,7 @@ print(valor)
 print(diccionario)
 """
 
-## PART 4
+#### PART 4
 
 """
 diccionario = {'a': 1, 'b': 2, 'c': 3, 'd': 4}

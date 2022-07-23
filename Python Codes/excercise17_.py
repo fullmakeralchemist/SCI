@@ -8,6 +8,7 @@ nombre_completo = 'Mr. %s %s.' %(nombre, apellido)
 print(nombre_completo)
 
 
+# PART II
 """
 nombre = 'Jose Eduardo'
 apellido = 'Padron'
@@ -16,7 +17,7 @@ nombre_completo = 'Mr. {} {}.'.format(nombre, apellido)
 
 print(nombre_completo)
 """
-
+# PART III
 """
 nombre = 'Jose Eduardo'
 apellido = 'Padron'
