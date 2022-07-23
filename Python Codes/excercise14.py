@@ -14,6 +14,8 @@ print(len(lista_cursos))
 lista_cursos.remove('MongoDB')
 print(lista_cursos)
 
+# PART II
+
 """
 lista_cursos = ['Python', 'Java', 'Django', 'Flask', 'Ruby']
 lista_cursos_dos = ['C++', 'C', 'Matlab']
@@ -32,7 +34,7 @@ print(lista_cursos)
 """
 
 
-#PART 3
+#PART III
 
 """
 lista_cursos = ['Python', 'Java', 'Django', 'Flask', 'Ruby']
