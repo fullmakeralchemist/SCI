@@ -35,6 +35,7 @@ According to the TIOBE index, which measures the popularity of programming langu
 There is a lot of places to learn Python like, Many short and advanced courses, such as:
 * [Getting Started with Python](https://www.futurelearn.com/courses/programming-for-everybody-python)
 * [Deep learning and Python programming](https://www.futurelearn.com/experttracks/advanced-ai-microsoft-azure)
+* [Medium](https://medium.com/)
 * [Coursera](https://es.coursera.org/)
 * [edX](https://www.edx.org/)
 * [Youtube](https://www.youtube.com/) (Type and look for the Python course, look for the one with more views)
