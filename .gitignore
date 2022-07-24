@@ -9,7 +9,6 @@ env.bak/
 venv.bak/
 'venv' 
 'env'
-
 /env
 'env' 
 .env
@@ -19,3 +18,4 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+\SCIE\env
