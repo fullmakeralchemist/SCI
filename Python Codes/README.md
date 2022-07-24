@@ -1,8 +1,8 @@
 <h1>Python folder 🐍</h1>
 
-<p align="center">
-  <img src="https://github.com/fullmakeralchemist/SCI/blob/84bfa407f38e6e4cb0be79921398ca2d362c914c/assets/python.png" width="30% />
-</p>
+
+<img src="https://github.com/fullmakeralchemist/SCI/blob/84bfa407f38e6e4cb0be79921398ca2d362c914c/assets/python.png" width="20% />
+
 
 [Download Python](https://www.python.org/downloads/)
 
@@ -44,36 +44,20 @@ Clearly, Python is a popular and in-demand skill to learn. But what is python pr
 1. AI and machine learning 
 Because Python is such a stable, flexible, and simple programming language, it’s perfect for various machine learning (ML) and artificial intelligence (AI) projects. In fact, Python is among the favourite languages among data scientists, and there are many Python machine learning and AI libraries and packages available. 
 
-If you’re interested in this application of Python, our Deep Learning and Python Programming for AI with Microsoft Azure ExpertTrack can help you develop your skills in these areas. You can discover the uses of Python and deep learning while boosting your career in AI. 
-
 2. Data analytics 
-Much like AI and machine learning, data analytics is another rapidly developing field that utilises Python programming. At a time when we’re creating more data than ever before, there is a need for those who can collect, manipulate and organise the information. 
-
-Python for data science and analytics makes sense. The language is easy-to-learn, flexible, and well-supported, meaning it’s relatively quick and easy to use for analysing data. When working with large amounts of information, it’s useful for manipulating data and carrying out repetitive tasks. 
-
-You can learn about data analytics using Python with our ExpertTrack, which will help you develop practical data analytics skills. 
+Much like AI and machine learning, data analytics is another rapidly developing field that utilises Python programming. At a time when we’re creating more data than ever before, there is a need for those who can collect, manipulate and organise the information. Python for data science and analytics makes sense. The language is easy-to-learn, flexible, and well-supported, meaning it’s relatively quick and easy to use for analysing data. When working with large amounts of information, it’s useful for manipulating data and carrying out repetitive tasks.  
 
 3. Data visualisation 
-Data visualisation is another popular and developing area of interest. Again, it plays into many of the strengths of Python. As well as its flexibility and the fact it’s open-source, Python provides a variety of graphing libraries with all kinds of features. 
-
-Whether you’re looking to create a simple graphical representation or a more interactive plot, you can find a library to match your needs. Examples include Pandas Visualization and Plotly. The possibilities are vast, allowing you to transform data into meaningful insights. 
-
-If data visualisation with Python sounds appealing, check out our 12-week ExpertTrack on the subject. You’ll learn how to leverage Python libraries to interpret and analyse data sets. 
+Data visualisation is another popular and developing area of interest. Again, it plays into many of the strengths of Python. As well as its flexibility and the fact it’s open-source, Python provides a variety of graphing libraries with all kinds of features. Whether you’re looking to create a simple graphical representation or a more interactive plot, you can find a library to match your needs. Examples include Pandas Visualization and Plotly. The possibilities are vast, allowing you to transform data into meaningful insights. 
 
 4. Programming applications 
 You can program all kinds of applications using Python. The general-purpose language can be used to read and create file directories, create GUIs and APIs, and more. Whether it’s blockchain applications, audio and video apps, or machine learning applications, you can build them all with Python. 
 
-We also have an ExpertTrack on programming applications with Python, which can help to kick-start your programming career. Over the course of 12 weeks, you’ll gain an introduction on how to use Python, and start programming your own applications using it. 
-
 5. Web development 
-Python is a great choice for web development. This is largely due to the fact that there are many Python web development frameworks to choose from, such as Django, Pyramid, and Flask. These frameworks have been used to create sites and services such as Spotify, Reddit and Mozilla. 
-
-Thanks to the extensive libraries and modules that come with Python frameworks, functions such as database access, content management, and data authorisation are all possible and easily accessible. Given its versatility, it’s hardly surprising that Python is so widely used in web development. 
+Python is a great choice for web development. This is largely due to the fact that there are many Python web development frameworks to choose from, such as Django, Pyramid, and Flask. These frameworks have been used to create sites and services such as Spotify, Reddit and Mozilla. Thanks to the extensive libraries and modules that come with Python frameworks, functions such as database access, content management, and data authorisation are all possible and easily accessible. Given its versatility, it’s hardly surprising that Python is so widely used in web development. 
 
 6. Game development 
-Although far from an industry-standard in game development, Python does have its uses in the industry. It’s possible to create simple games using the programming language, which means it can be a useful tool for quickly developing a prototype. Similarly, certain functions (such as dialogue tree creation) are possible in Python. 
-
-If you’re new to either Python or game development, then you can also discover how to make a text-based game in Python. In doing so, you can work on a variety of skills and improve your knowledge in various areas. 
+Although far from an industry-standard in game development, Python does have its uses in the industry. It’s possible to create simple games using the programming language, which means it can be a useful tool for quickly developing a prototype. Similarly, certain functions (such as dialogue tree creation) are possible in Python. If you’re new to either Python or game development, then you can also discover how to make a text-based game in Python. In doing so, you can work on a variety of skills and improve your knowledge in various areas. 
 
 ## Support and counsulting pages
 
@@ -86,3 +70,6 @@ If you’re new to either Python or game development, then you can also discover
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Gooble Colab](https://colab.research.google.com/?hl=es)
 
+## referencies
+
+https://www.futurelearn.com/info/blog/what-is-python-used-for
