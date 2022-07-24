@@ -9,7 +9,7 @@
 -->
 
 <!--#     The TensorFlow Microcontroller Challenge    -->
-   <h1>🏆 Science Club International AI as a tool to achieve sustainable development. 🏆</h1>
+   <h1>🏆 AI as a tool to achieve sustainable development. 🏆</h1>
    <h2>🏆 AI as a tool to achieve sustainable development. 🏆</h2>
 
 <!-- PROJECT LOGO -->
@@ -30,22 +30,14 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-  * [Data Exploration](#data-exploration)
-  * [Model Training](#model-training)
-  * [Mapping and lightning Script Running](#mapping-and-lightning-script-running)
-  * [Perform the Model](#perform-the-model)
-* [Kinetic Sculpture](#kinetic-sculpture)
-* [Challenges I ran into and What I learned](#challenges-i-ran-into-and-what-i-learned)
-* [Observations about the project](#observations-about-the-project)
-* [Accomplishments that I'm proud of](#accomplishments-that-im-proud-of)
-* [What's next for Tiny ML in Mapping Dance, Visual Arts and interactive museums](##whats-next-for-tiny-ml-in-mapping-dance-visual-arts-and-interactive-museums)
+* [What's next for Tiny ML in Mapping Dance, Visual Arts and interactive museums](##whats-next-after-club)
 * [License](#license)
 * [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+* [Information resources](#information-resources)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Club
 
 <!-- [![Tiny ML in Mapping Dance](https://i9.ytimg.com/vi/3YUVTDTo-Zk/mq1.jpg?sqp=CNTs2IcG&rs=AOn4CLBiPsvQ2bGNVZvn_j-nJXj8d81hLA)](https://www.youtube.com/watch?v=3YUVTDTo-Zk) -->
 
@@ -82,6 +74,13 @@ Go to the folders [Python Codes](https://github.com/fullmakeralchemist/SCI/tree/
 
 ### Prerequisites
 
+* Have a computer
+* Arithmetic (Basic math knowledge)
+* Computer
+* Google Account
+* Google Chrome
+
+<!--
 This is an example of how to list things you need to use the software and how to install them. 
 
 For this particular section I will suppose that you already have a Raspberry Pi already setup. If not I have a guide in Medium about [Getting started on Raspberry Pi 4](https://fullmakeralchemist.medium.com/setting-up-your-raspberry-pi-4-wireless-f51c16937d1e). Also you will need git installed on your system. If not, I have a guide posted on [Medium](https://fullmakeralchemist.medium.com/install-git-and-visual-studio-code-on-raspberry-pi-48d054fdee07) to do it .
@@ -92,6 +91,8 @@ Before installing the libraries in Raspberry Pi run the following code lines in 
 sudo apt update
 sudo apt upgrade
 ```
+-->
+
 <!--
 After updating and upgrading we will write the following command:
 
@@ -217,7 +218,8 @@ The simplest way is just using the Thonny IDE which is included with Raspberry P
 ## Contact
 
 Eduardo Padron - [@makeralchemist](https://twitter.com/makeralchemist) - 
-Eduardo Padron - [@fullmakeralchemist]()
+Eduardo Padron - [@fullmakeralchemist](www.linkedin.com/in/fullmakeralchemist
+)
 
 
 <!-- ACKNOWLEDGEMENTS -->
