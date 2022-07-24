@@ -28,7 +28,7 @@ According to the TIOBE index, which measures the popularity of programming langu
 * Its ease of use. For those who are new to coding and programming, Python can be an excellent first step. It’s relatively easy to learn, making it a great way to start building your programming knowledge.
 * Its simple syntax. Python is relatively easy to read and understand, as its syntax is more like English. Its straightforward layout means that you can work out what each line of code is doing. 
 * Its thriving community. As it’s an open-source language, anyone can use Python to code. What’s more, there is a community that supports and develops the ecosystem, adding their own contributions and libraries. 
-* Its versatility. As we’ll explore in more detail, there are many uses for Python. Whether you’re interested in data visualisation, artificial intelligence or web development, you can find a use for the language. }
+* Its versatility. As we’ll explore in more detail, there are many uses for Python. Whether you’re interested in data visualisation, artificial intelligence or web development, you can find a use for the language. 
 
 ## Where can I learn Python?
 
