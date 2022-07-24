@@ -92,3 +92,24 @@ int unEntero; //variable tipo int sin inicializar
 unsigned int numeroPositivo = 2343; //entero positivo inicializada
 float numDecimal = 12.212; //numero decimal inicializado a 12,212
 ```
+
+## Libraries
+The Arduino environment can be extended through the use of libraries, just like most programming platforms. Libraries provide extra functionality for use in sketches, e.g. working with hardware or manipulating data. To use a library in a sketch, select it from Sketch > Import Library.
+A number of libraries come installed with the IDE, but you can also download or create your own. See these instructions for details on installing libraries. There is also a tutorial on writing your own libraries. See the API Style Guide for information on making a good Arduino-style API for your library.
+
+
+## Examples
+
+* Excercises
+  * LED (if)
+  * LED RGB (for)
+  * Sensors
+* Actuators
+  * Servo
+  * Servo (for)
+
+
+## Raspberry PI PICO
+  * Raspberry PI PICO (LED)
+  * Raspberry PI PICO (Sensor temp)
+  * Raspberry PI PICO (Sensor analog and write)

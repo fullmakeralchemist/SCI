@@ -63,7 +63,7 @@ Some facts:
 
 With a lot of love 💖, motivation to help others 💪🏼 and [Python](https://www.python.org/) 🐍, using:
 
-* [Google Colab](https://colab.research.google.com/) <img src="https://colab.research.google.com/img/favicon.ico" width="15"> (with its wonderful GPUs)
+* [Google Colab](https://colab.research.google.com/) <img src="https://colab.research.google.com/img/favicon.ico" width="15"> 
 * A [Raspberry Pi](https://www.raspberrypi.org/) 4 <img src="https://www.raspberrypi.org/homepage-9df4b/favicon.png" width="15">
 * A [Arduino Nano 33 BLE SENSE](https://store.arduino.cc/usa/nano-33-ble-sense)
 * A [NodeMCU ESP8266](https://nodemcu.readthedocs.io/en/release/) board
@@ -214,13 +214,8 @@ The simplest way is just using the Thonny IDE which is included with Raspberry P
 
 ## What's next after club
 
-- Develop own embedded device for the model deployment (which should already include a accelerometer, gyroscope and a wifi connection)
-- Improve user data acquisition through the accelerometer and gyroscope.
-- Add Bluetooth recording of accelerometer and gyroscope (you can find a file using python as a receiver of the information and the INO file that sends the data through the BLE library).
-- Implement in a dance presentation or a museum (also in my house in holidays)
-- Add kinetic sculptures with servo motors to add an effect like the matilda movie.
-- Test prototype with a dancer.
-- Add the MadMapper API to add more visual effects with the animations.
+- Develop your own ideas, type the idea that you have in mind to see what the community has created to have a base.
+- Depending in the area you want to start working or create projects take courses.
 
 
 ## License
