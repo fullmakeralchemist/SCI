@@ -39,8 +39,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Club
 
-**Note**
-This is not a professional course, this is just a resource to introduce you to the programming knolegde to guide you
+>**Note**
+>This is not a professional course, this is just a resource to introduce you to the programming knolegde to guide you
 
 <!-- [![Tiny ML in Mapping Dance](https://i9.ytimg.com/vi/3YUVTDTo-Zk/mq1.jpg?sqp=CNTs2IcG&rs=AOn4CLBiPsvQ2bGNVZvn_j-nJXj8d81hLA)](https://www.youtube.com/watch?v=3YUVTDTo-Zk) -->
 
