@@ -39,10 +39,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Club
 
+**Note**
+This is not a professional course, this is just a resource to introduce you to the programming knolegde to guide you
+
 <!-- [![Tiny ML in Mapping Dance](https://i9.ytimg.com/vi/3YUVTDTo-Zk/mq1.jpg?sqp=CNTs2IcG&rs=AOn4CLBiPsvQ2bGNVZvn_j-nJXj8d81hLA)](https://www.youtube.com/watch?v=3YUVTDTo-Zk) -->
 
 
-Currently we have all witnessed the changes in the environment, technology cannot solve everything at the moment, but with the open source tools that currently exist we can get an idea of what is happening. Currently, Data Science and Machine Learning can help us create evidence to put current problems on the table and start developing projects that could solve or improve some of them. Python is currently one of the most important tools for data science. The IoT, the maker culture and DIY can help us obtain variables, create prototypes for the different situations or projects that are required. In this course we will see the tools and techniques to create databases with different types of sensors and how to connect them to the Arduino, how and when to use them, later we will be able to analyze and create predictive models with data from the environment, we will know the different algorithms that exist, the advantages they have and we will learn to evaluate and adjust them to have better results.
+Currently we have all witnessed the changes in the environment, technology cannot solve everything at the moment, but with the open source tools that currently exist we can get an idea of what is happening. Currently, Data Science and Machine Learning can help us create evidence to put current problems on the table and start developing projects that could solve or improve some of them. Python is currently one of the most important tools for data science. 
+
+The IoT, the maker culture and DIY can help us obtain variables, create prototypes for the different situations or projects that are required. In this course we will see the tools and techniques to create databases with different types of sensors and how to connect them to the Arduino, how and when to use them, later we will be able to analyze and create predictive models with data from the environment, we will know the different algorithms that exist, the advantages they have and we will learn to evaluate and adjust them to have better results.
 
 
 ### Motivation
@@ -69,7 +74,14 @@ With a lot of love 💖, motivation to help others 💪🏼 and [Python](https:/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Go to the folders [Python Codes](https://github.com/fullmakeralchemist/SCI/tree/'main'/Python%20Codes)
+**Warning**
+Ignore the folders env and assets and the file .gitignore
+
+For the first day go to the folder [Python Codes](https://github.com/fullmakeralchemist/SCI/tree/'main'/Python%20Codes), and go down to see the explanaiton.
+
+For the second day go to the folder [Arduino Codes](https://github.com/fullmakeralchemist/SCI/tree/'main'/Arduino%20Codes), and go down to see the explanaiton.
+
+For the second day go to the folder [Raspberry Pi Pico Codes](https://github.com/fullmakeralchemist/SCI/tree/'main'/Raspberry%20Pi%20Pico), and go down to see the explanaiton.
 
 
 ### Prerequisites
