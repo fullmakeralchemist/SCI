@@ -9,8 +9,8 @@
 -->
 
 <!--#     The TensorFlow Microcontroller Challenge    -->
-   <h1>🏆 AI as a tool to achieve sustainable development. 🏆</h1>
-   <h2>🏆 AI as a tool to achieve sustainable development. 🏆</h2>
+   <h1>👩‍💻 AI as a tool to achieve sustainable development. 🧑‍💻</h1>
+   <h2>👩‍🔬 Science Club International 🧑‍🔬</h2>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -25,12 +25,12 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Club](#about-the-project)
+* [About the Club](#about-the-club)
   * [Motivation](#motivation)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-* [What's next for Tiny ML in Mapping Dance, Visual Arts and interactive museums](##whats-next-after-club)
+* [What's next after club](#whats-next-after-club)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -217,9 +217,8 @@ The simplest way is just using the Thonny IDE which is included with Raspberry P
 <!-- CONTACT -->
 ## Contact
 
-Eduardo Padron - [@makeralchemist](https://twitter.com/makeralchemist) - 
-Eduardo Padron - [@fullmakeralchemist](www.linkedin.com/in/fullmakeralchemist
-)
+Eduardo Padron (Twitter) - [@makeralchemist](https://twitter.com/makeralchemist) 
+Eduardo Padron (LinkedIn) - [@fullmakeralchemist](www.linkedin.com/in/fullmakeralchemist)
 
 
 <!-- ACKNOWLEDGEMENTS -->
