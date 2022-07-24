@@ -1,4 +1,5 @@
 # Environments
+ignore venv
 .env
 .venv
 env/
@@ -7,4 +8,14 @@ ENV/
 env.bak/
 venv.bak/
 'venv' 
+'env'
+
+/env
 'env' 
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
