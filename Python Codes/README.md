@@ -1,7 +1,7 @@
 <h1>Python folder 🐍</h1>
 
 
-<p style="text-align:center">
+<p align="center">
     <img src="https://github.com/fullmakeralchemist/SCI/blob/84bfa407f38e6e4cb0be79921398ca2d362c914c/assets/python.png" alt="Python" width="20%">
   </a>
 </p>
