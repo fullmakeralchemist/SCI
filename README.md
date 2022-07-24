@@ -9,7 +9,7 @@
 -->
 
 <!--#     The TensorFlow Microcontroller Challenge    -->
-   <h1>👩‍💻 AI as a tool to achieve sustainable development.🧑‍💻</h1>
+   <h1>👩‍💻 AI as a tool to achieve sustainable development.👨‍💻</h1>
    <h2>👩‍🔬 Science Club International 🧑‍🔬</h2>
 
 <!-- PROJECT LOGO -->
