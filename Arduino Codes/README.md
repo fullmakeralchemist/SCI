@@ -3,7 +3,7 @@
 [Documentation Arduino](https://www.arduino.cc/en/Guide/Introduction)
 
 ## What is Arduino?
-Arduino is an open platform of hardware software, community, microcontroller, project company designed to be used in a simple way by anyone. we are going to learn to create solutions to problems that we have every day, the Arduino are cheap and we can get them easily, it is multiplatform. The programming environment is simple, it is one of the largest open source projects in the world. If I use other forms of communication permitting, there are many community projects. It is based on microcontrollers ATmega328P, we can design our own cards. an arduino to your measure and needs.
+Arduino is an open platform of hardware software, community, microcontroller, project company designed to be used in a simple way by anyone. we are going to learn to create solutions to problems that we have every day, the Arduino are cheap and we can get them easily, it is multiplatform. The programming environment is simple, it is one of the largest open source projects in the world. If I use other forms of communication permitting, there are many community projects. It is based on microcontrollers ATmega328P, we can design our own boards. an arduino to your measure and needs.
 
 [Where to buy it](https://store-usa.arduino.cc/)
 
@@ -69,7 +69,7 @@ Explain cases for use of Raspberry.
 However, if we want to do a simpler project, like turning on a light, with Arduino we can do it more quickly and easily, with minimal programming, while with Raspberry we could do it, but making the task more complicated.
 
 ## Arduino Software (IDE)
-El entorno de desarrollo integrado Arduino, o software Arduino (IDE), contiene un editor de texto para escribir código, un área de mensajes, una consola de texto, una barra de herramientas con botones para funciones comunes y una serie de menús. Se conecta al hardware Arduino para cargar programas y comunicarse con ellos.
+The Arduino integrated development environment, or Arduino software (IDE), contains a text editor for writing code, a message area, a text console, a toolbar with buttons for common functions, and a series of menus. It connects to Arduino hardware to upload programs and communicate with them.
 
 
 ## Variables
