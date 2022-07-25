@@ -107,9 +107,3 @@ A number of libraries come installed with the IDE, but you can also download or 
 * Actuators
   * Servo
   * Servo (for)
-
-
-## Raspberry PI PICO
-  * Raspberry PI PICO (LED)
-  * Raspberry PI PICO (Sensor temp)
-  * Raspberry PI PICO (Sensor analog and write)

@@ -34,3 +34,12 @@ Press the BOOTSEL button and hold it while you connect the other end of the micr
 Click on the Python version and choose ‘MicroPython (Raspberry Pi Pico)’:
 
 If you don’t see this option, then check that you have plugged in your Raspberry Pi Pico.
+
+## Content
+
+
+
+* Raspberry PI PICO
+  * Raspberry PI PICO (LED)
+  * Raspberry PI PICO (Sensor temp)
+  * Raspberry PI PICO (Sensor analog and write)
